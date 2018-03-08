@@ -1,3 +1,3 @@
-describe #fizzbuzz
+def #fizzbuzz
 
 end
