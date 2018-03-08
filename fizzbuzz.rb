@@ -1,6 +1,6 @@
 def fizzbuzz(n)
   if(n%5 == 0 && n%3 == 0)
-    return "Fizzbuzz"
+    return "FizzBuzz"
   end
 
   if(n%3 == 0)
